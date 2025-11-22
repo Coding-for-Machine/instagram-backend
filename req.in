@@ -1,0 +1,8 @@
+django
+Pillow
+django-ninja
+django-cors-headers
+django-storages
+psycopg2-binary
+redis
+django-redis
